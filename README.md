@@ -12,7 +12,7 @@ We used a data set that we obtained from kaggle.com that records UFO sightings. 
 # First Data Visualization
 ## Question 1: Does the distribution of UFO sightings correlate with the locations of airports in Georgia?
 
-![alt text]()
+![alt text](https://github.com/Chris-Richards3/TableauProject/blob/main/distributionMap.png)
 
 ## Importance of this Question
 The distribution of UFO sightings in Georgia gives insight to many elements of the reported data pertaining to the recorded cases. The first is geographical pattern; the cases can indicate a certain frequency within a particular city where an individual can have a high probability of seeing a UFO. The distribution also gives insight into the possible cultural and societal beliefs of the individuals in communities with high frequencies of reported sightings. A person in one city with no sightings may say there is no possibility of extraterrestrial life, while another person in a high-frequency city may advocate for extraterrestrial research. Delving further into cultural and societal beliefs, this may bring on an element of reporting bias within individuals of the same community; consequently prompting the question of credibility within the reported data. 
